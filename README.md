@@ -1,2 +1,2 @@
 # bip009
-Solidity Digest talk code.
+Improving results consistency in smart contract reviews talk code.
